@@ -1,0 +1,16 @@
+div {
+    font-size: medium;
+    color: purple;
+}
+button {
+    width: 150px;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+}
+select {
+    width: 150px;
+    color: green;
+    padding: 5px;
+    margin: 5px;
+}
